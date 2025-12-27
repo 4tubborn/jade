@@ -1,0 +1,17 @@
+{
+    "values": [
+        "#stone_bricks",
+        "stone",
+        "coal_ore",
+        "coal_block",
+        "cobblestone",
+        "granite",
+        "diorite",
+        "andesite",
+        "#stone_buttons",
+        "#stone_pressure_plates",
+        "tuff",
+        "deepslate"
+    ],
+    "replace": false
+}

@@ -1,0 +1,14 @@
+{
+    "values": [
+        "light",
+        "bedrock",
+        "end_gateway",
+        "end_portal",
+        "end_portal_frame",
+        "nether_portal",
+        "barrier",
+        "command_block",
+        "chain_command_block",
+        "repeating_command_block"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "t":{
+            "trigger": "bee_nest_destroyed",
+            "conditions": {
+                "block": "minecraft:grass_block",
+                "item": {
+                    "count": 1
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "t"
+        ]
+    ],
+    "rewards": {
+        "function": "jade:test"
+    }
+}

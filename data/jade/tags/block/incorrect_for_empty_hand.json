@@ -1,0 +1,8 @@
+{
+    "values": [
+        "#needs_diamond_tool",
+        "#needs_iron_tool",
+        "#needs_stone_tool",
+        "#jade:needs_wooden_tool"
+    ]
+}
